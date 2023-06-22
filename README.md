@@ -2,4 +2,4 @@
 
 Available as a single download (the ZIP file) or by individual files from each chapter's folder.
 
-As with every Head First book, there's lots to be learned by typing the code in as you go (just sayin').
+As with every Head First book, there's lots to be learned by typing in the code as you go (just sayin').
